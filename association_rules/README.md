@@ -1,7 +1,7 @@
 ## Association Rules
 > Association rules is a popular tool for mining commercial databases. It is most often applied to binary-valued data in which case it is known as "market basket" analysis.
 
-###Table of Contents
+##Table of Contents
 This presentation is inspired from Section 14.1 of Association Rules of Chapter 14 Unsupervised Learning from book "The Elements of Statistical Learning".
 
 - Introduction
