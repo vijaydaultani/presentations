@@ -42,8 +42,14 @@ This presentation is inspired from Section 14.1 of Association Rules of Chapter 
 	- Authors: Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome
 
 ## Note
-Presentation is made using [Sozi][] and [Inkscape][]. To view the presentation download the file named download file `association_rules_presentation.html` and open the file in your browser ex. Chrome.
+Presentation is made using [Sozi][] and [Inkscape][].    
+
+* Open in Browser: [here][Live]
+* Download Presentation: [here][Raw]
+	* Download the file named `association_rules_presentation.html` and open the file in your web browser ex. Chrome.
 
 [Sozi]: http://sozi.baierouge.fr/
 [The Elements of Statistical Learning]: https://www.springer.com/gp/book/9780387848570
 [Inkscape]: https://inkscape.org/en/
+[Live]: https://vijaydaultani.github.io/assets/docs/association_rules_presentation.html#frame1323
+[Raw]: https://github.com/vijaydaultani/presentations/blob/master/association_rules/association_rules_presentation.html
